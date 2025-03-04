@@ -56,7 +56,7 @@ public class Assignment1_Datatypes {
 		System.out.println();
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int followers=1000000;
+		String followers="1,000,000";
 		System.out.println("Number of followers on a social media platform:"+followers);
 		System.out.println();
 		
