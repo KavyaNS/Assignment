@@ -50,7 +50,7 @@ public class Assignment4_Collections {
 		empList.add(employee2);
 		empList.add(employee3);
 		
-		System.out.println("Phone number of employee 2 :"+empList.get(1).get("Email"));
+		System.out.println("Email of employee 2 :"+empList.get(1).get("Email"));
 		
 		
 		
